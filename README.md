@@ -14,7 +14,7 @@ The main feature of This Library Management System Using Java is that all the bo
 
 Additionally, the application effectively maintains the details of users/students to whom books have been issued; it also records the issued date and return date.
 
-Features
+## FEATURES
 
 Manage books
 
@@ -31,7 +31,7 @@ User login
 User registration
 
 
-List Module
+## LIST MODULE
 
 New book
 
